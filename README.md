@@ -1,6 +1,5 @@
 # vue-template
 Struct vue
-
 .
 ├── admin
 │   └── app.vue
