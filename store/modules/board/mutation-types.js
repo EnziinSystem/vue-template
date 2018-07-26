@@ -1,0 +1,13 @@
+export const GET_INDEX_BOARD = 'GET_INDEX_BOARD';
+export const GET_SHOW_BOARD = 'GET_SHOW_BOARD';
+export const CREATED_BOARD = 'CREATED_BOARD';
+export const DESTROYED_BOARD = 'DESTROYED_BOARD';
+export const UPDATED_BOARD = 'UPDATED_BOARD';
+
+export default {
+    GET_INDEX_BOARD,
+    GET_SHOW_BOARD,
+    CREATED_BOARD,
+    DESTROYED_BOARD,
+    UPDATED_BOARD
+};

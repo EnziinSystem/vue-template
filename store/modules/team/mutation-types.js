@@ -1,0 +1,13 @@
+export const GET_INDEX_TEAM = 'GET_INDEX_TEAM';
+export const GET_SHOW_TEAM = 'GET_SHOW_TEAM';
+export const CREATED_TEAM = 'CREATED_TEAM';
+export const DESTROYED_TEAM = 'DESTROYED_TEAM';
+export const UPDATED_TEAM = 'UPDATED_TEAM';
+
+export default {
+    GET_INDEX_TEAM,
+    GET_SHOW_TEAM,
+    CREATED_TEAM,
+    DESTROYED_TEAM,
+    UPDATED_TEAM
+};
