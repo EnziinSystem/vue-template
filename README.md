@@ -1,5 +1,6 @@
 # vue-template
 Struct vue
+```
 .
 ├── admin
 │   └── app.vue
@@ -64,3 +65,4 @@ Struct vue
         ├── index.vue
         ├── new.vue
         └── show.vue
+```
